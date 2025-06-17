@@ -1,4 +1,6 @@
 # README
+GUIDE: 
+https://guides.rubyonrails.org/v7.2/getting_started.html#deleting-associated-objects
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
